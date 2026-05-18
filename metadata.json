@@ -1,0 +1,8 @@
+{
+  "name": "OS Insights - 主流操作系统深度解析",
+  "description": "一个关于主流操作系统的深度解析分享网站，包含桌面级与移动级OS的优势对比、核心异同分析及未来趋势。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
